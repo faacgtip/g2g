@@ -1,5 +1,6 @@
 # Website Glad2Glow - Task Slicing Website
-<img width="960" height="471" alt="image" src="https://github.com/user-attachments/assets/f3f5cc81-8dc4-4dce-83ef-f7fb4f5507d2" />
+<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/26a044a0-f407-40c8-b90c-407a6a4b5aa1" />
+
 
 Proyek slicing website Glad2Glow yang dibangun menggunakan **HTML, Plain CSS, dan JavaScript (DOM)** tanpa framework (tanpa Bootstrap/Tailwind). 
 
