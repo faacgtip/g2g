@@ -2,7 +2,7 @@
 <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/26a044a0-f407-40c8-b90c-407a6a4b5aa1" />
 
 
-Proyek ini merupakan *slicing* landing page website **Glad2Glow** yang dikembangkan menggunakan **HTML5, Plain CSS3, dan Vanilla JavaScript (DOM)** murni tanpa menggunakan *framework* (tanpa Bootstrap/Tailwind).
+Proyek ini merupakan *slicing* landing page website **Glad2Glow** yang dikembangkan menggunakan **HTML, Plain CSS, dan JavaScript (DOM)** murni tanpa menggunakan *framework* (tanpa Bootstrap/Tailwind).
 
 ---
 
@@ -18,9 +18,9 @@ Proyek ini merupakan *slicing* landing page website **Glad2Glow** yang dikembang
 ---
 
 ## 🛠️ Teknologi yang Digunakan:
-- **HTML5:** Menyusun struktur konten halaman web.
-- **Plain CSS3:** Styling manual menggunakan Flexbox/Grid & Media Queries untuk responsivitas.
-- **Vanilla JavaScript:** Logika interaktif dan pemrosesan DOM tanpa bantuan pustaka luar.
+- **HTML:** Menyusun struktur konten halaman web.
+- **Plain CSS:** Styling manual menggunakan Flexbox/Grid & Media Queries untuk responsivitas.
+- **JavaScript:** Logika interaktif dan pemrosesan DOM tanpa bantuan pustaka luar.
 
 ---
 
