@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kontak — Glad2Glow</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="navbar">
+    <a href="index.html" class="logo">Glad2Glow</a>
+    <button class="menu-toggle" aria-label="Buka menu"><span></span><span></span><span></span></button>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="produk.html">Produk</a></li>
+      <li><a href="kontak.html" class="active">Kontak</a></li>
+    </ul>
+  </div>
+</header>
+
+<section>
+  <h2 class="section-title">Hubungi Kami</h2>
+  <p class="section-sub">Ada pertanyaan seputar produk? Kirimkan pesan ke kami</p>
+
+  <div class="contact-wrap">
+    <div class="contact-info">
+      <p><strong>Alamat:</strong><br>Jl. Melati No. 12, Surabaya, Jawa Timur</p>
+      <p><strong>Email:</strong><br>hello@glad2glow.id</p>
+      <p><strong>Telepon:</strong><br>0812-3456-7890</p>
+      <p><strong>Jam Operasional:</strong><br>Senin – Sabtu, 09.00 – 17.00</p>
+    </div>
+
+    <form id="contact-form">
+      <div>
+        <label for="name">Nama</label>
+        <input type="text" id="name" name="name" placeholder="Nama lengkap">
+      </div>
+      <div>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="nama@email.com">
+      </div>
+      <div>
+        <label for="message">Pesan</label>
+        <textarea id="message" name="message" placeholder="Tulis pesan kamu di sini"></textarea>
+      </div>
+      <p class="form-msg"></p>
+      <button type="submit" class="btn">Kirim Pesan</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  &copy; 2026 Glad2Glow. Semua hak dilindungi.
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
