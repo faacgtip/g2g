@@ -1,14 +1,29 @@
-# Website Glad2Glow - Task Slicing Website
+# 🧴 Website Glad2Glow - Task Slicing Website
 <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/26a044a0-f407-40c8-b90c-407a6a4b5aa1" />
 
 
-Proyek slicing website Glad2Glow yang dibangun menggunakan **HTML, Plain CSS, dan JavaScript (DOM)** tanpa framework (tanpa Bootstrap/Tailwind). 
+Proyek ini merupakan *slicing* landing page website **Glad2Glow** yang dikembangkan menggunakan **HTML5, Plain CSS3, dan Vanilla JavaScript (DOM)** murni tanpa menggunakan *framework* (tanpa Bootstrap/Tailwind).
 
-## 📌 Fitur Utama:
-- **Responsive Design:** Tampilan menyesuaikan dengan baik di perangkat Mobile, Tablet, maupun Desktop.
-- **Plain CSS:** Seluruh styling dibuat manual menggunakan file CSS.
-- **JavaScript DOM:** Interaksi menu dan manipulasi elemen web menggunakan vanilla JS.
+---
+
+## 📌 Fitur & Halaman Website:
+- **Halaman Beranda (Home):** Tampilan *hero section* menarik dengan pengenalan produk utama Glad2Glow.
+- **Katalog Produk:** Menampilkan deretan produk perawatan kulit (*skincare*) lengkap dengan foto dan deskripsi.
+- **Halaman Kontak:** Halaman berisi formulir dan informasi kontak.
+- **Responsive Design:** Tampilan fleksibel dan rapi saat diakses dari Layar HP (Mobile), Tablet, maupun Laptop/Desktop.
+- **Interaktivitas JavaScript (DOM):**
+  - Toggle navigasi menu responsif pada layar ponsel (*hamburger menu*).
+  - Interaksi tombol dan manipulasi elemen DOM.
+
+---
+
+## 🛠️ Teknologi yang Digunakan:
+- **HTML5:** Menyusun struktur konten halaman web.
+- **Plain CSS3:** Styling manual menggunakan Flexbox/Grid & Media Queries untuk responsivitas.
+- **Vanilla JavaScript:** Logika interaktif dan pemrosesan DOM tanpa bantuan pustaka luar.
+
+---
 
 ## 🔗 Live Demo:
-Website dapat diakses secara online pada tautan berikut:
+Website dapat diakses secara online pada tautan berikut:  
 [https://faacgtip.github.io/g2g/g2g/](https://faacgtip.github.io/g2g/g2g/)
